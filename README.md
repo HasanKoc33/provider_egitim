@@ -2,7 +2,7 @@
 
 burada flutter provider paketinin kısa örneklerle anlatılması hedeflenmiştir.
 
-video linki: https://www.youtube.com/watch?v=3Xv1mJHUQ7I
+video linki: https://youtu.be/yP2nhiq163s
 
 ## Kurulum 
 
